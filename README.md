@@ -1,8 +1,10 @@
 先放demo 地址  github 库太大，我传不上去。哪位大神教我一下。百度网盘也能先凑活一下了。
-//之前的失效链接: http://pan.baidu.com/s/1sljIVTj 密码: ctak  
-新的链接里面有framework库: https://pan.baidu.com/s/1bQJshOx1JRpjadxS-BO6ag 提取码: vs8e
-基友demo2 抽出来的小项目 把库抽出来了不然太大，可以把库直接放进去使用。
-链接: https://pan.baidu.com/s/1hrETkAo 密码: 5u6k
+
+之前的失效链接: http://pan.baidu.com/s/1sljIVTj 密码: ctak  
+#####新的链接里面有framework库: https://pan.baidu.com/s/1bQJshOx1JRpjadxS-BO6ag 提取码: vs8e
+
+#####基友demo2 抽出来的小项目 把库抽出来了不然太大，可以把库直接放进去使用。
+#####链接: https://pan.baidu.com/s/1hrETkAo 密码: 5u6k
 ###  1.VLC 介绍
 [VLC](http://www.videolan.org/vlc/) 是什么？(借的，这个比较全)
 >[VLC](https://code.videolan.org/videolan/VLCKit.git) VLC媒体播放器（VideoLAN的）为Windows，Linux和OS X，Android版，iOS版的Windows Phone等平台提供一个视频播放器，解码器，它可以播放来自网络，摄像头，磁盘，光驱的文件，支持包括MPEG 1 / 2/4，H264，VC-1，DivX的，WMV，Vorbis格式，AC3，AAC等格式的解码。在windows和linux上的VLC是使用C ++ / Qt的写成，提供了一致的用户体验。同时VLC还专门为OS X提供了原生版本，Mac OS X版的VLC的用户界面使用可可框架编写，在OS X下拥有卓越的原生体验。
