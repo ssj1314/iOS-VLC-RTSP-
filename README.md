@@ -1,4 +1,6 @@
-先放demo 地址  github 库太大，我传不上去。哪位大神教我一下。百度网盘也能先凑活一下了。//之前的失效链接: http://pan.baidu.com/s/1sljIVTj 密码: ctak  新的链接里面有framework库: https://pan.baidu.com/s/1bQJshOx1JRpjadxS-BO6ag 提取码: vs8e
+先放demo 地址  github 库太大，我传不上去。哪位大神教我一下。百度网盘也能先凑活一下了。
+//之前的失效链接: http://pan.baidu.com/s/1sljIVTj 密码: ctak  
+新的链接里面有framework库: https://pan.baidu.com/s/1bQJshOx1JRpjadxS-BO6ag 提取码: vs8e
 基友demo2 抽出来的小项目 把库抽出来了不然太大，可以把库直接放进去使用。
 链接: https://pan.baidu.com/s/1hrETkAo 密码: 5u6k
 ###  1.VLC 介绍
